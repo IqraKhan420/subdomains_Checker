@@ -1,0 +1,7 @@
+www
+mail
+blog
+ftp
+dev
+admin
+support
